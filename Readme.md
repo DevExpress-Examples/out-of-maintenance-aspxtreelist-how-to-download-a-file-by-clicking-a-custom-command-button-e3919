@@ -2,8 +2,8 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [LoadFile.aspx](./CS/WebSite/LoadFile.aspx) (VB: [LoadFile.aspx.vb](./VB/WebSite/LoadFile.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [LoadFile.aspx](./CS/WebSite/LoadFile.aspx) (VB: [LoadFile.aspx](./VB/WebSite/LoadFile.aspx))
 * [LoadFile.aspx.cs](./CS/WebSite/LoadFile.aspx.cs) (VB: [LoadFile.aspx.vb](./VB/WebSite/LoadFile.aspx.vb))
 <!-- default file list end -->
 # ASPxTreeList - How to download a file by clicking a custom command button
